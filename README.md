@@ -42,7 +42,7 @@
 <a href = "mailto:avnigoyal37@gmail.com"><img align="center" src="https://img.icons8.com/color/50/000000/gmail-new.png" height="50" width="50" /><a>
  </p>
 
- <br><
+ <br>
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Avnigoyal22&theme=maroongold&hide_border=true&include_all_commits=true&hide_title=true" />
   <br>
   <br>
