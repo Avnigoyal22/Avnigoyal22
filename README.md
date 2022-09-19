@@ -17,17 +17,18 @@
 <p align ="center"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img align="center"src="https://img.icons8.com/color/48/000000/html-5.png" height="60" width="60"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="center" src="https://img.icons8.com/color/48/000000/css3.png" height="60" width="60"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img align="center" src="https://img.icons8.com/color/48/000000/bootstrap.png" height="60" width="60"/> </a> 
-    <a href="https://www.javascript.com/" target="_blank"> <img align="center" src="https://img.icons8.com/color/48/000000/javascript--v1.png" height="60" width="60"/> </a>
+    <!--<a href="https://getbootstrap.com" target="_blank"> <img align="center" src="https://img.icons8.com/color/48/000000/bootstrap.png" height="60" width="60"/> </a>--> 
+    <!--<a href="https://www.javascript.com/" target="_blank"> <img align="center" src="https://img.icons8.com/color/48/000000/javascript--v1.png" height="60" width="60"/> </a>-->
     <a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" height="60" width="60"/> </a>      
     <!--<a href="https://developer.android.com/courses?gclid=CjwKCAjwj42UBhAAEiwACIhADk0N9MLGaC0W_NdDiaykR-vchQ9ggSoidXae_tqVRbGUVniFAibkpBoCp2UQAvD_BwE" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/android.png" height="60" width="60"/> </a> -->
     <a href="https://github.com/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/github--v3.png" height="60" width="60"/></a>
-    <a href="https://reactjs.org/" target="_blank"> <img align="center"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="60" width="60"/></a> 
+    <!--<a href="https://reactjs.org/" target="_blank"> <img -->align="center"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="60" width="60"/></a> 
     <a href="https://code.visualstudio.com/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" height="60" width="60"/></a> 
-  <a href="https://www.mysql.com/" target="_blank"> <img align="center"src="https://img.icons8.com/color/48/000000/mysql.png" height="60" width="60"/></a> 
-  <a href="https://www.linux.org/" target="_blank"> <img align="center"src="https://img.icons8.com/color/48/000000/linux.png" height="60" width="60"/></a> 
-    <a href="https://nodejs.org" target="_blank"> <img align="center" src="https://img.icons8.com/color/48/000000/nodejs.png" height="60" width="60"/> </a>
-    <a href="https://nodejs.org" target="_blank"> <img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--GEOe8aLy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/qgjn9fi1vff7thgbbecs.jpeg" height="60" width="110"/> </a>
+     <a href="[https://code.visualstudio.com/](https://www.google.com/search?q=premiere+pro+png&sxsrf=ALiCzsauIJ8NA943-JnxUylw5Jjp5IGkrA:1663577640482&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjLu8TSvaD6AhVGTGwGHRXyBG0Q_AUoAXoECAIQAw&biw=1474&bih=762&dpr=1.25#imgrc=f8Qwm8hlHEmacM)" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" height="60" width="60"/></a> 
+  <!--<a href="https://www.mysql.com/" target="_blank"> <img align="center"src="https://img.icons8.com/color/48/000000/mysql.png" height="60" width="60"/></a>--> 
+  <!--<a href="https://www.linux.org/" target="_blank"> <img align="center"src="https://img.icons8.com/color/48/000000/linux.png" height="60" width="60"/></a>--> 
+    <!--<a href="https://nodejs.org" target="_blank"> <img align="center" src="https://img.icons8.com/color/48/000000/nodejs.png" height="60" width="60"/> </a>-->
+    <!--<a href="https://nodejs.org" target="_blank"> <img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--GEOe8aLy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/qgjn9fi1vff7thgbbecs.jpeg" height="60" width="110"/> </a>-->
   
 </p>
 <br>
