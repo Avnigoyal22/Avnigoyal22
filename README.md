@@ -37,15 +37,12 @@
 📫 How to connect with me :
 
 <p align ="center">
-<a href="https://www.linkedin.com/in/aryandev-shourie-175025229/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" /> &nbsp; &nbsp;
-<a href="https://www.instagram.com/aryan_shourie/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" /></a>&nbsp; &nbsp;
-<a href="https://www.facebook.com/aryandev.shourie/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="40" /></a>&nbsp; &nbsp;
-<a href = "mailto:shouriearyandev@gmail.com"><img align="center" src="https://img.icons8.com/color/50/000000/gmail-new.png" height="50" width="50" /><a>
+<a href="https://www.linkedin.com/in/avni-goyal-790a841b2/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" /> &nbsp; &nbsp;
+<a href="https://www.instagram.com/_.avni.goyal._/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" /></a>&nbsp; &nbsp;;
+<a href = "mailto:avnigoyal37@gmail.com"><img align="center" src="https://img.icons8.com/color/50/000000/gmail-new.png" height="50" width="50" /><a>
  </p>
 
  <br><
- <a href="https://github.com/As
-    <!--<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aryan2727-debug&show_icons=true&theme=maroongold " />-->
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Avnigoyal22&theme=maroongold&hide_border=true&include_all_commits=true&hide_title=true" />
   <br>
   <br>
