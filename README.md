@@ -46,12 +46,12 @@
  <br><
  <a href="https://github.com/As
     <!--<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aryan2727-debug&show_icons=true&theme=maroongold " />-->
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish0209&theme=maroongold&hide_border=true&include_all_commits=true&hide_title=true" />
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Avnigoyal22&theme=maroongold&hide_border=true&include_all_commits=true&hide_title=true" />
   <br>
   <br>
- <img   width="48%" height ="200px" left ="600px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish0209&layout=compact&theme=maroongold&hide_border=true&hide_title=true" />
+ <img   width="48%" height ="200px" left ="600px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avnigoyal22&layout=compact&theme=maroongold&hide_border=true&hide_title=true" />
 <br> <br>
-<img alt="Ashish's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ashish0209&theme=chartreuse-dark"></a>
+<img alt="Avni's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Avnigoyal22&theme=chartreuse-dark"></a>
 hish0209">be>   
  
  ## 🚀 My Github Stats:
