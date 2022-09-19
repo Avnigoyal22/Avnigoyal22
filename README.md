@@ -40,7 +40,9 @@
 <a href="https://www.instagram.com/_.avni.goyal._/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" /></a>&nbsp; &nbsp;
 <a href = "mailto:avnigoyal37@gmail.com"><img align="center" src="https://img.icons8.com/color/50/000000/gmail-new.png" height="50" width="50" /><a>
  </p>
-
+   
+ ## 🚀 My Github Stats:
+    
  <br>
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Avnigoyal22&theme=maroongold&hide_border=true&include_all_commits=true&hide_title=true" />
   <br>
@@ -48,6 +50,5 @@
  <img   width="48%" height ="200px" left ="600px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avnigoyal22&layout=compact&theme=maroongold&hide_border=true&hide_title=true" />
 <br> <br>
 <img alt="Avni's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Avnigoyal22&theme=chartreuse-dark"></a> 
- 
- ## 🚀 My Github Stats:
+
 
