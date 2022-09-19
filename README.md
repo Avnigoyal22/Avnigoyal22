@@ -24,7 +24,6 @@
     <a href="https://github.com/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/github--v3.png" height="60" width="60"/></a>
     <!--<a href="https://reactjs.org/" target="_blank"> <img -->align="center"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="60" width="60"/></a> 
     <a href="https://code.visualstudio.com/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" height="60" width="60"/></a> 
-     <a href="[https://code.visualstudio.com/](https://www.google.com/search?q=premiere+pro+png&sxsrf=ALiCzsauIJ8NA943-JnxUylw5Jjp5IGkrA:1663577640482&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjLu8TSvaD6AhVGTGwGHRXyBG0Q_AUoAXoECAIQAw&biw=1474&bih=762&dpr=1.25#imgrc=f8Qwm8hlHEmacM)" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" height="60" width="60"/></a> 
   <!--<a href="https://www.mysql.com/" target="_blank"> <img align="center"src="https://img.icons8.com/color/48/000000/mysql.png" height="60" width="60"/></a>--> 
   <!--<a href="https://www.linux.org/" target="_blank"> <img align="center"src="https://img.icons8.com/color/48/000000/linux.png" height="60" width="60"/></a>--> 
     <!--<a href="https://nodejs.org" target="_blank"> <img align="center" src="https://img.icons8.com/color/48/000000/nodejs.png" height="60" width="60"/> </a>-->
