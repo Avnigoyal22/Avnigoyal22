@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m a learner at present
+- 🔭 I’m a learner and an explorer
 - 🌱 I’m currently learning C++ and Front End Development
 - 👯 I’m looking to see myself at a software developer
 - 🤔 I’m looking for help with Data Structures
