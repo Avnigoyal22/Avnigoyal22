@@ -48,8 +48,7 @@
   <br>
  <img   width="48%" height ="200px" left ="600px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avnigoyal22&layout=compact&theme=maroongold&hide_border=true&hide_title=true" />
 <br> <br>
-<img alt="Avni's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Avnigoyal22&theme=chartreuse-dark"></a>
-hish0209">be>   
+<img alt="Avni's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Avnigoyal22&theme=chartreuse-dark"></a> 
  
  ## 🚀 My Github Stats:
 
