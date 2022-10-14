@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Hey , I am Avni Goyal 👋
+### I am Avni Goyal 👋
 
 
 
