@@ -10,9 +10,9 @@
 - ⚡ Me, uhh, I am a social butterfly looking for every opportunity to interact.
 
 -Coding Platforms
-    Leetcode: <b>https://leetcode.com/AvniGoyal22/</b>
-    GeeksForGeeks: <b>https://auth.geeksforgeeks.org/user/avni1509be20/</b>
-    CodeChef: <b>https://www.codechef.com/users/cu_2010991509</b>
+    Leetcode: <b>https://leetcode.com/AvniGoyal22/</b><br>
+    GeeksForGeeks: <b>https://auth.geeksforgeeks.org/user/avni1509be20/</b><br>
+    CodeChef: <b>https://www.codechef.com/users/cu_2010991509</b><br><br>
    
 -Reach me at Avnigoyal37@gmail.com or look for me on LinkedIn: <b>https://www.linkedin.com/in/avni-goyal-790a841b2/</b>
 
