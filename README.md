@@ -6,10 +6,16 @@
 - 🔭 I’m a learner and an explorer
 - 🌱 I’m currently learning C++ and Front End Development
 - 👯 I’m looking to see myself at a software developer
-- 🤔 I’m looking for help with Data Structures
-- 💬 Ask me about C++ and Web Development Stuff
 - 😄 Pronouns: She/Her
 - ⚡ Me, uhh, I am a social butterfly looking for every opportunity to interact.
+
+-Coding Platforms
+    Leetcode: <b>https://leetcode.com/AvniGoyal22/</b>
+    GeeksForGeeks: <b>https://auth.geeksforgeeks.org/user/avni1509be20/</b>
+    CodeChef: <b>https://www.codechef.com/users/cu_2010991509</b>
+   
+-Reach me at Avnigoyal37@gmail.com or look for me on LinkedIn: <b>https://www.linkedin.com/in/avni-goyal-790a841b2/</b>
+
 
 ## 🚀 My Tech-Skills:
 
